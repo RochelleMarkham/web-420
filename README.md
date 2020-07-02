@@ -1,2 +1,7 @@
-# web-420
-Web-420 RESTFul APIs
+# Web-420
+RESTFul APIs
+
+# Contributors
+Rochelle Markham - Bellevue University
+<br/>
+Professor Krasso - Bellevue University
