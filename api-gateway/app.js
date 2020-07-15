@@ -1,3 +1,13 @@
+/*
+===================================
+; Title: app
+; Author: Professor Krasso
+; Date: 
+; Modified By: Rochelle Markham
+; Description: API Gateway
+;==================================
+*/
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');

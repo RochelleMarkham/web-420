@@ -1,3 +1,13 @@
+/*
+===================================
+; Title: api-catalog
+; Author: Professor Krasso
+; Date: 
+; Modified By: Rochelle Markham
+; Description: API Gateway
+;==================================
+*/
+
 //API Routes
 var express = require ('express');
 var router = express.Router();

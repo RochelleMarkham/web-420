@@ -1,3 +1,13 @@
+/*
+===================================
+; Title: authController
+; Author: Professor Krasso
+; Date: 
+; Modified By: Rochelle Markham
+; Description: API Gateway
+;==================================
+*/
+
 var User = require('../models/user');
 
 //Register a new user on POST

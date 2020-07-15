@@ -1,4 +1,14 @@
-//fields usersname, password and email
+/*
+===================================
+; Title: user
+; Author: Professor Krasso
+; Date: 
+; Modified By: Rochelle Markham
+; Description: API Gateway
+;==================================
+*/
+
+//fields username, password and email
 var mongoose = require ('mongoose');
 var userSchema = new mongoose.Schema({
     username: String, 
